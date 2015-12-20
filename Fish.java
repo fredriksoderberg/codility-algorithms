@@ -25,6 +25,6 @@ class Solution {
                     downstreamFish.push(A[i]);
             }
         }
-        return downstreamFish.size() + upstreamFish.size(); // total fish living
+        return downstreamFish.size() + upstreamFish.size(); // total fish living.
     }
 }
